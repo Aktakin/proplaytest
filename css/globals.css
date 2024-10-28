@@ -1,0 +1,1240 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,600|Poppins:500,400,700,600|Sofia+Sans:700|Barlow:400|Lato:500,600");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/65eca13f503101d52f694bb6.65eca140503101d52f694bb9.w2sZ5mr.hcp.png");
+
+@font-face {
+  font-family: "Helvetica Neue-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/HelveticaNeueMed.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Helvetica Neue-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/5796578[1].svg");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.frame-1000005714::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.frame-1000003611::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.frame-1000003611 {
+  align-items: flex-start;
+  border-radius: 12.5px;
+  display: flex;
+  gap: 8.33px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: relative;
+  width: 1198.34px;
+}
+
+.card1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 12.5px;
+  display: flex;
+  flex-direction: column;
+  height: 145px;
+  justify-content: space-between;
+  overflow: hidden;
+  padding: 12.5px 0px;
+  position: relative;
+  width: 293.33px;
+}
+
+.frame-1000005712 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 0px 12.5px;
+  position: relative;
+  width: 293.33px;
+}
+
+.kabaddi-match-8 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-1000003604 {
+  align-items: center;
+  border-radius: 4.17px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4.17px;
+  position: relative;
+}
+
+.live {
+  letter-spacing: 0;
+  line-height: 10.0px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33px;
+  position: relative;
+}
+
+.patna-pirates {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-1000003587-1 {
+  gap: 8.33px;
+  justify-content: flex-end;
+}
+
+.gujarat-giants {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.empty-raid {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-1000005712-1 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8.33px;
+  padding: 0px 12.5px;
+  position: relative;
+  width: 217.5px;
+}
+
+.gujarat-giants-empty-raid {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  margin-top: -0.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cricket-2nd-test-queens-park {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.ind {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x197-1 {
+  height: 25px;
+  position: relative;
+  width: 25px;
+}
+
+.wi {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.day4 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stumps {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stumps-day-4-wi-need-289-runs-to-win {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  margin-top: -0.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-1000005712-2 {
+  align-items: center;
+  display: flex;
+  height: 20px;
+  justify-content: space-between;
+  padding: 0px 12.5px;
+  position: relative;
+  width: 293.33px;
+}
+
+.cricket-3rd-test-queens-park {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-1000003616 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4.17px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.frame-3065 {
+  align-items: center;
+  background-color: var(--blueberry);
+  border-radius: 4.17px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8.33px;
+  justify-content: center;
+  padding: 5px 8.33px;
+  position: relative;
+}
+
+.match-center {
+  letter-spacing: 0;
+  line-height: 10.0px;
+  margin-top: -0.83px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.surname {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.today {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x0730-pm {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-1000005712-3 {
+  align-items: center;
+  display: flex;
+  height: 7.5px;
+  justify-content: space-between;
+  padding: 0px 12.5px;
+  position: relative;
+  width: 293.33px;
+}
+
+.yet-to-begin-stay-t {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  margin-top: -0.58px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.bell-1 {
+  height: 13.33px;
+  margin-bottom: -2.92px;
+  margin-top: -2.92px;
+  position: relative;
+  width: 13.33px;
+}
+
+.tennis-mens-singles-2023 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-1000003616-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4.17px;
+  opacity: 0;
+  position: relative;
+}
+
+.r-nadal {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.c-ruud {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.r-nadal-won {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  text-align: center;
+}
+
+.match-ended-nadal-won-the-match {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  margin-top: -0.58px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.kabaddi-match-8-1 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.patna-pirates-1 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.gujarat-giants-1 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.empty-raid-1 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.gujarat-giants-empty-raid-1 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  margin-top: -0.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cricket-2nd-test-queens-park-1 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.ind-1 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.wi-1 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.day4-1 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stumps-1 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stumps-day-4-wi-need-289-runs-to-win-1 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  margin-top: -0.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cricket-3rd-test-queens-park-1 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.surname-1 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.today-1 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x0730-pm-1 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yet-to-begin-stay-t-1 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  margin-top: -0.58px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tennis-mens-singles-2023-1 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.r-nadal-1 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+}
+
+.c-ruud-1 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.r-nadal-won-1 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.match-ended-nadal-won-the-match-1 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  margin-top: -0.58px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input-left {
+  align-items: center;
+  display: flex;
+  height: 13px;
+  justify-content: space-between;
+  position: relative;
+  width: 349px;
+}
+
+.input-placeholder {
+  letter-spacing: 0;
+  line-height: 12.8px;
+  margin-top: -1.03px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input-icon-left {
+  height: 23.71px;
+  margin-bottom: -5.47px;
+  margin-top: -5.47px;
+  position: relative;
+  width: 23.71px;
+}
+
+.frame-1000006617 {
+  align-items: center;
+  display: inline-flex;
+  gap: 16px;
+  position: relative;
+}
+
+.frame-1000006611 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.ellipse-137 {
+  height: 70px;
+  position: relative;
+  width: 70px;
+}
+
+.frame-427319423 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.phill-sim {
+  color: var(--white);
+  font-weight: 400;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yournamegmailcom {
+  color: var(--gray---tailwind500);
+  cursor: pointer;
+  font-weight: 400;
+  line-height: 16px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.ellipse-3371 {
+  background-color: var(--white);
+  border-radius: 12.5px;
+  box-shadow: 0px 1px 4px #1a0f011f;
+  height: 25px;
+  left: 46px;
+  position: absolute;
+  top: 43px;
+  width: 25px;
+}
+
+.team-owner {
+  margin-left: 6px;
+  margin-top: 36px;
+}
+
+.non-player {
+  color: var(--mountain-mist);
+  font-weight: 400;
+  line-height: 18px;
+  margin-left: 6px;
+  margin-top: 6px;
+  white-space: nowrap;
+}
+
+.flex-row-item {
+  height: 103px;
+  width: 110px;
+}
+
+.button-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  margin-top: 130px;
+  min-width: 311px;
+}
+
+.team-name {
+  margin-left: 8px;
+  margin-top: 29px;
+}
+
+.team-description {
+  margin-left: 8px;
+  margin-top: 13px;
+}
+
+.team-location {
+  left: 8px;
+  position: absolute;
+  top: 51px;
+}
+
+.weuiarrow-outlined-1 {
+  height: 12px;
+  left: 312px;
+  position: absolute;
+  top: 95px;
+  width: 24px;
+}
+
+.x-light {
+  height: 24px;
+  width: 24px;
+}
+
+.kjv101 {
+  align-self: flex-end;
+  color: var(--mountain-mist);
+  font-weight: 400;
+  line-height: 18px;
+  min-width: 37px;
+  white-space: nowrap;
+}
+
+.weuiarrow-outlined {
+  height: 12px;
+  width: 24px;
+}
+
+.team-vice-captain {
+  color: var(--mountain-mist);
+  font-weight: 400;
+  line-height: 18px;
+  margin-left: 8px;
+  margin-top: 31px;
+  white-space: nowrap;
+}
+
+.preferred-stadium {
+  color: var(--mountain-mist);
+  font-weight: 400;
+  line-height: 18px;
+  margin-left: 8px;
+  margin-top: 13px;
+  white-space: nowrap;
+}
+
+.save-change {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 20px;
+  margin-bottom: -3.00px;
+  margin-top: -5.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.share-team-with-other-team-members {
+  color: var(--mountain-mist);
+  font-weight: 400;
+  line-height: 18px;
+  margin-bottom: 1.83px;
+  min-width: 233px;
+  white-space: nowrap;
+}
+
+.rectangle-2224 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: var(--black-4);
+  height: 905px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1321px;
+}
+
+.rectangle-2225 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: var(--black-4);
+  height: 905px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 1321px;
+}
+
+.rectangle-2226 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: var(--black-pearl);
+  height: 415px;
+  left: 318px;
+  position: absolute;
+  top: 259px;
+  width: 588px;
+}
+
+.rectangle-2227 {
+  background-color: var(--red-ribbon);
+  cursor: pointer;
+  height: 48px;
+  left: 374px;
+  position: absolute;
+  top: 475px;
+  width: 92px;
+}
+
+.rectangle-2228 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 48px;
+  left: 482px;
+  position: absolute;
+  top: 475px;
+  width: 92px;
+}
+
+.are-you-sure-you-wan {
+  left: 374px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 346px;
+  width: 277px;
+}
+
+.yes {
+  left: 402px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 472px;
+  width: 43px;
+}
+
+.vuesaxlinearcalendar-2 {
+  height: 16.67px;
+  position: relative;
+  width: 16.67px;
+}
+
+.frame-1000005705 {
+  align-items: center;
+  display: flex;
+  gap: 8.33px;
+  position: relative;
+  top: 7px;
+  width: 49px;
+}
+
+.x10 {
+  height: 16.67px;
+  position: relative;
+  width: 16.67px;
+}
+
+.x10-1 {
+  height: 16.67px;
+  position: relative;
+  width: 16.67px;
+}
+
+.my-profile {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -28.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.vuesaxlinearnote {
+  height: 16.67px;
+  position: relative;
+  width: 16.67px;
+}
+
+.vuesaxlineargame {
+  height: 16.67px;
+  position: relative;
+  width: 16.67px;
+}
+
+.venues {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-1000005705-1 {
+  display: flex;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 49px;
+}
+
+.vuesaxlinearcup {
+  height: 16.67px;
+  position: relative;
+  width: 16.67px;
+}
+
+.competition-hub {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -63.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.line-rounded-chevron-right {
+  height: 10px;
+  left: 193px;
+  position: absolute;
+  top: 11px;
+  width: 10px;
+}
+
+.vuesaxlinearelement-plus {
+  height: 16.67px;
+  position: relative;
+  width: 16.67px;
+}
+
+.get-premium {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -43.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.vuesaxlinearnotification {
+  height: 16.67px;
+  position: relative;
+  width: 16.67px;
+}
+
+.notification-settings {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -82.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.vuesaxlinearcolor-swatch {
+  height: 16.67px;
+  position: relative;
+  width: 16.67px;
+}
+
+.theme {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -11.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.line-rounded-chevron-right-1 {
+  height: 10px;
+  left: 47px;
+  position: absolute;
+  top: 10px;
+  width: 10px;
+}
+
+.frame-1000003587-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.r-nadal-2 {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.group-1000005715 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3px;
+  height: 19px;
+  margin-left: 55px;
+  min-width: 67px;
+}
+
+.vuesaxlinearhome {
+  height: 16.67px;
+  position: relative;
+  width: 16.67px;
+}
+
+.dropdowns-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8.33px;
+  margin-top: 283px;
+  padding: 0px 23.33px;
+  position: relative;
+}
+
+.frame-1000005713::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.frame-3096 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.frame-1000005713-1 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8.33px;
+  position: relative;
+}
+
+.view-all {
+  letter-spacing: 0;
+  line-height: 15.1px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.day4-2 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-1000005705-6 {
+  align-items: center;
+  gap: 8.33px;
+}
+
+.ind-2 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.stumps-2 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.today-2 {
+  letter-spacing: 0.17px;
+  line-height: 11.7px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.wi-2 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x197-2 {
+  height: 25px;
+  position: relative;
+  width: 25px;
+}
+
+.your-name {
+  color: var(--white);
+  font-weight: 400;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.profile {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 8px;
+  white-space: nowrap;
+}
+
+.first-name {
+  color: var(--mountain-mist);
+  font-weight: 400;
+  line-height: 18px;
+  margin-left: 8px;
+  margin-top: 65px;
+  white-space: nowrap;
+}
+
+.last-name {
+  color: var(--mountain-mist);
+  font-weight: 400;
+  left: 8px;
+  line-height: 18px;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.age {
+  color: var(--mountain-mist);
+  font-weight: 400;
+  left: 8px;
+  line-height: 18px;
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.phone-number {
+  color: var(--mountain-mist);
+  font-weight: 400;
+  line-height: 18px;
+  margin-left: 8px;
+  white-space: nowrap;
+}
+
+.email {
+  color: var(--mountain-mist);
+  font-weight: 400;
+  left: 8px;
+  line-height: 18px;
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.sorted-by-location-and-skill-level {
+  letter-spacing: 0;
+  line-height: 15.1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-3098::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.frame-793-1 {
+  margin-right: 4.18px;
+  margin-top: 32px;
+}
+
+.unlimited-fc {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 38.0px;
+  margin-top: 33px;
+  white-space: nowrap;
+}
+
+.we-are-a-combination {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 10.0px;
+  margin-top: 25px;
+  min-height: 40px;
+  width: 266px;
+}
+
+.frame-793-2 {
+  margin-right: 2.87px;
+  margin-top: 38px;
+}
+
+.frame-793-3 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 238px;
+}
+
+.team-1 {
+  color: var(--mountain-mist);
+  font-weight: 400;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.rectangle-2231 {
+  background-color: #000000a3;
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1183px;
+}

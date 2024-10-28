@@ -1,0 +1,578 @@
+/* screen - teams-1 */
+
+.teams-1 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  overflow: hidden;
+  width: 1600px;
+}
+
+.teams-1 .overlap-group3 {
+  height: 905px;
+  position: relative;
+  width: 1603px;
+}
+
+.teams-1 .sports-web-ui-light {
+  align-items: flex-start;
+  background-color: var(--black-russian);
+  display: flex;
+  flex-direction: column;
+  height: 905px;
+  left: 0;
+  padding: 44px 0;
+  position: absolute;
+  top: 0;
+  width: 1600px;
+}
+
+.teams-1 .pro {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 25px;
+  white-space: nowrap;
+}
+
+.teams-1 .play {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.teams-1 .dropdown-container {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16.67px;
+  margin-left: 25px;
+  margin-top: 123px;
+  position: relative;
+}
+
+.teams-1 .link {
+  border-radius: 5.83px;
+  cursor: pointer;
+  height: 31.67px;
+  position: relative;
+  width: 203.33px;
+}
+
+.teams-1 .place {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -97.83px;
+  position: relative;
+  width: 122px;
+}
+
+.teams-1 .link-1 {
+  border-radius: 5.83px;
+  height: 31.67px;
+  position: relative;
+  width: 203.33px;
+}
+
+.teams-1 .frame-1000005705-2 {
+  display: flex;
+  position: relative;
+  top: 8px;
+  width: 49px;
+}
+
+.teams-1 .schedule {
+  height: 12px;
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -24.83px;
+  position: relative;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.teams-1 .link-3 {
+  align-items: flex-start;
+  background-color: var(--cello);
+  border-color: var(--white);
+  border-left-style: solid;
+  border-left-width: 2.5px;
+  border-radius: 5.83px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33px;
+  padding: 12.5px 16.67px;
+  position: relative;
+  width: 203.33px;
+}
+
+.teams-1 .frame-1000005705-3 {
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 49.17px;
+}
+
+.teams-1 .view-teams-my-team {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -97.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.teams-1 .frame-1000005705-4 {
+  display: inline-flex;
+  position: relative;
+  top: 8px;
+}
+
+.teams-1 .dropdown-container-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33px;
+  position: relative;
+}
+
+.teams-1 .overlap-group {
+  align-items: center;
+  display: flex;
+  gap: 97px;
+  height: 32px;
+  min-width: 203px;
+  padding: 1.7px 0;
+}
+
+.teams-1 .frame-1000005705-5 {
+  display: flex;
+  margin-top: 0.83px;
+  position: relative;
+  width: 49px;
+}
+
+.teams-1 .overlap-group1 {
+  align-self: flex-end;
+  border-radius: 14.17px;
+  height: 28px;
+  position: relative;
+  width: 58px;
+}
+
+.teams-1 .input-content {
+  align-items: flex-start;
+  background-color: var(--blue-dianne);
+  border-radius: 14.17px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 58px;
+  padding: 1.7px 1.7px;
+  position: absolute;
+  top: 0;
+}
+
+.teams-1 .vector-1 {
+  align-self: center;
+  height: 12px;
+  margin-top: 0;
+  width: 12px;
+}
+
+.teams-1 .frame-1000005712-4 {
+  height: 25px;
+  width: 25px;
+}
+
+.teams-1 .frame-1000005713 {
+  align-items: flex-start;
+  background-color: var(--eerie-black);
+  border-top-style: solid;
+  border-top-width: 12.5px;
+  display: flex;
+  flex-direction: column;
+  height: 905px;
+  left: 327px;
+  overflow-y: scroll;
+  position: absolute;
+  top: 0;
+  width: 1276px;
+}
+
+.teams-1 .match-card {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 8.33px;
+  margin-right: 6.16px;
+  margin-top: -216px;
+  overflow: hidden;
+  position: relative;
+  width: 1253px;
+}
+
+.teams-1 .x197507 {
+  height: 20px;
+  object-fit: cover;
+  position: relative;
+  width: 20px;
+}
+
+.teams-1 .line-2 {
+  height: 1px;
+  position: relative;
+  width: 293.33px;
+}
+
+.teams-1 .frame-1000003587 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8.33px;
+  position: relative;
+}
+
+.teams-1 .x197 {
+  height: 25px;
+  object-fit: cover;
+  position: relative;
+  width: 25px;
+}
+
+.teams-1 .number {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.teams-1 .text-67 {
+  text-align: right;
+}
+
+.teams-1 .frame-1000003587-2 {
+  border-color: var(--black-3);
+  border-left-style: solid;
+  border-left-width: 0.83px;
+  flex-direction: column;
+  gap: 4.17px;
+  height: 58.33px;
+  justify-content: center;
+  padding: 0px 8.33px 0px 20.83px;
+}
+
+.teams-1 .text-68 {
+  text-align: center;
+}
+
+.teams-1 .text-70 {
+  text-align: right;
+}
+
+.teams-1 .name {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.teams-1 .number-2 {
+  text-align: right;
+}
+
+.teams-1 .text-71 {
+  text-align: center;
+}
+
+.teams-1 .text-72 {
+  text-align: right;
+}
+
+.teams-1 .text-73 {
+  text-align: center;
+}
+
+.teams-1 .text-75 {
+  text-align: right;
+}
+
+.teams-1 .name-1 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.teams-1 .number-5 {
+  text-align: right;
+}
+
+.teams-1 .text-76 {
+  text-align: center;
+}
+
+.teams-1 .frame-1000005712-5 {
+  background-color: var(--selective-yellow);
+  border-radius: 12.5px;
+  height: 68.33px;
+  position: relative;
+  width: 45.83px;
+}
+
+.teams-1 .vuesaxlineararrow {
+  height: 20px;
+  left: 13px;
+  position: absolute;
+  top: 24px;
+  width: 20px;
+}
+
+.teams-1 .frame-1000005712-6 {
+  background-color: var(--onyx);
+  border-radius: 12.5px;
+  height: 68.33px;
+  position: relative;
+  width: 45.83px;
+}
+
+.teams-1 .hugeiconsadd-team {
+  height: 24px;
+  margin-top: 71px;
+  width: 24px;
+}
+
+.teams-1 .frame-3099-1 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 46px;
+  margin-top: 108px;
+  position: relative;
+  width: 854px;
+}
+
+.teams-1 .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.teams-1 .vuesaxlinearsend-1 {
+  height: 24.44px;
+  position: relative;
+  width: 24.44px;
+}
+
+.teams-1 .vuesaxlinearsend-2 {
+  height: 15px;
+  position: relative;
+  width: 15px;
+}
+
+.teams-1 .frame-3098 {
+  align-items: flex-start;
+  border-radius: 16.67px;
+  display: flex;
+  gap: 16.67px;
+  height: 415px;
+  margin-left: 36px;
+  margin-top: 44px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: relative;
+  width: 1024px;
+}
+
+.teams-1 .link-2 {
+  background-color: var(--baltic-sea);
+  border-radius: 16.67px;
+  cursor: pointer;
+  height: 415.48px;
+  margin-bottom: -0.48px;
+  overflow: hidden;
+  position: relative;
+  width: 325.99px;
+}
+
+.teams-1 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 389px;
+  width: 326px;
+}
+
+.teams-1 .rectangle-2222 {
+  height: 208px;
+  object-fit: cover;
+  width: 326px;
+}
+
+.teams-1 .urara-reds {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 43px;
+  margin-top: 29px;
+  white-space: nowrap;
+}
+
+.teams-1 .a-group-of-13-year-o {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 26.0px;
+  margin-top: 30px;
+  min-height: 40px;
+  width: 266px;
+}
+
+.teams-1 .frame-793 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 3.5px;
+  margin-top: 37px;
+  position: relative;
+  width: 238px;
+}
+
+.teams-1 .commentary {
+  letter-spacing: 0;
+  line-height: 26.7px;
+  margin-top: -0.91px;
+  position: relative;
+  width: 74.88px;
+}
+
+.teams-1 .vector {
+  height: 16.44px;
+  position: relative;
+  width: 16.42px;
+}
+
+.teams-1 .naija-squad {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 42.0px;
+  margin-top: 33px;
+  white-space: nowrap;
+}
+
+.teams-1 .surname-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 24.0px;
+  margin-top: 31px;
+  min-height: 40px;
+  width: 266px;
+}
+
+.teams-1 .post-1 {
+  align-items: center;
+  background-color: var(--onyx);
+  border-radius: 8.33px;
+  cursor: pointer;
+  display: flex;
+  gap: 16.67px;
+  justify-content: center;
+  margin-left: 36px;
+  margin-top: 63px;
+  position: relative;
+  width: 1011px;
+}
+
+.teams-1 .frame-3099 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8.33px;
+  justify-content: center;
+  padding: 12.5px 0px;
+  position: relative;
+}
+
+.teams-1 .x-team {
+  letter-spacing: 0;
+  line-height: 26.7px;
+  margin-top: -0.83px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.teams-1 .vuesaxlinearsend {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.teams-1 .post-1-1 {
+  align-items: center;
+  background-color: var(--onyx);
+  border-radius: 8.33px;
+  cursor: pointer;
+  display: flex;
+  gap: 16.67px;
+  justify-content: center;
+  margin-left: 34px;
+  margin-top: 29px;
+  position: relative;
+  width: 1011px;
+}
+
+.teams-1 .header {
+  align-items: flex-end;
+  background-color: var(--baltic-sea);
+  box-shadow: 0px 1.82px 1.82px #0000001a;
+  display: flex;
+  flex-direction: row;
+  height: 78px;
+  justify-content: flex-end;
+  left: 327px;
+  min-width: 1273px;
+  padding: 2.5px 11.2px;
+  position: absolute;
+  top: 11px;
+  width: auto;
+}
+
+.teams-1 .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 67px;
+  justify-content: flex-end;
+  min-width: 417px;
+  padding: 24.8px 28.0px;
+}
+
+.teams-1 .number-6 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.teams-1 .text {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

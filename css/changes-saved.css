@@ -1,0 +1,689 @@
+/* screen - changes-saved */
+
+.changes-saved {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  width: 1600px;
+}
+
+.changes-saved .sports-web-ui-light {
+  background-color: var(--black-russian);
+  height: 905px;
+  overflow: hidden;
+  position: relative;
+  width: 1600px;
+}
+
+.changes-saved .overlap-group5 {
+  height: 910px;
+  left: 272px;
+  position: absolute;
+  top: 0;
+  width: 1328px;
+}
+
+.changes-saved .frame-1000005714 {
+  align-items: center;
+  background-color: var(--eerie-black);
+  border-top-style: solid;
+  border-top-width: 12.5px;
+  display: flex;
+  flex-direction: column;
+  gap: 51px;
+  height: 895px;
+  left: 0;
+  overflow-y: scroll;
+  position: absolute;
+  top: 10px;
+  width: 1328px;
+}
+
+.changes-saved .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 78px;
+  margin-left: 7.0px;
+  margin-top: -216px;
+  min-height: 301px;
+  width: 1321px;
+}
+
+.changes-saved .match-card {
+  align-items: flex-start;
+  display: flex;
+  gap: 8.33px;
+  margin-right: 13.16px;
+  overflow: hidden;
+  position: relative;
+  width: 1253px;
+}
+
+.changes-saved .x197507 {
+  height: 20px;
+  object-fit: cover;
+  position: relative;
+  width: 20px;
+}
+
+.changes-saved .line-2 {
+  height: 1px;
+  position: relative;
+  width: 293.33px;
+}
+
+.changes-saved .frame-1000003587 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8.33px;
+  position: relative;
+}
+
+.changes-saved .x197 {
+  height: 25px;
+  object-fit: cover;
+  position: relative;
+  width: 25px;
+}
+
+.changes-saved .number {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.changes-saved .text-107 {
+  text-align: right;
+}
+
+.changes-saved .frame-1000003587-2 {
+  border-color: var(--black-3);
+  border-left-style: solid;
+  border-left-width: 0.83px;
+  flex-direction: column;
+  gap: 4.17px;
+  height: 58.33px;
+  justify-content: center;
+  padding: 0px 8.33px 0px 20.83px;
+}
+
+.changes-saved .text-108 {
+  text-align: center;
+}
+
+.changes-saved .text-110 {
+  text-align: right;
+}
+
+.changes-saved .name {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.changes-saved .number-2 {
+  text-align: right;
+}
+
+.changes-saved .text-111 {
+  text-align: center;
+}
+
+.changes-saved .text-112 {
+  text-align: right;
+}
+
+.changes-saved .text-113 {
+  text-align: center;
+}
+
+.changes-saved .text-115 {
+  text-align: right;
+}
+
+.changes-saved .name-1 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.changes-saved .number-5 {
+  text-align: right;
+}
+
+.changes-saved .text-116 {
+  text-align: center;
+}
+
+.changes-saved .frame-1000005712-4 {
+  background-color: var(--selective-yellow);
+  border-radius: 12.5px;
+  height: 68.33px;
+  position: relative;
+  width: 45.83px;
+}
+
+.changes-saved .vuesaxlineararrow {
+  height: 20px;
+  left: 13px;
+  position: absolute;
+  top: 24px;
+  width: 20px;
+}
+
+.changes-saved .frame-1000005712-5 {
+  background-color: var(--onyx);
+  border-radius: 12.5px;
+  height: 68.33px;
+  position: relative;
+  width: 45.83px;
+}
+
+.changes-saved .header {
+  align-items: flex-end;
+  background-color: var(--baltic-sea);
+  box-shadow: 0px 1.82px 1.82px #0000001a;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 78px;
+  justify-content: flex-end;
+  min-width: 1321px;
+  padding: 2.5px 6.2px;
+  width: auto;
+}
+
+.changes-saved .overlap-group4 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 67px;
+  justify-content: flex-end;
+  min-width: 417px;
+  padding: 24.8px 27.0px;
+}
+
+.changes-saved .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 32px;
+  margin-left: 15.0px;
+  min-width: 1247px;
+}
+
+.changes-saved .flex-col-1 {
+  min-height: 631px;
+  width: 326px;
+}
+
+.changes-saved .x1 {
+  align-items: flex-start;
+  background-color: var(--baltic-sea);
+  border-radius: 16.67px;
+  display: flex;
+  flex-direction: column;
+  height: 256px;
+  overflow: hidden;
+  padding: 35px 24px;
+  width: 326px;
+}
+
+.changes-saved .edit-03 {
+  height: 16px;
+  left: 51px;
+  position: absolute;
+  top: 48px;
+  width: 16px;
+}
+
+.changes-saved .add-player-minimum-2 {
+  color: var(--mountain-mist);
+  font-weight: 400;
+  line-height: 18px;
+  margin-left: 6px;
+  margin-top: 49px;
+  white-space: nowrap;
+}
+
+.changes-saved .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  margin-top: 39px;
+  min-width: 238px;
+}
+
+.changes-saved .button {
+  align-items: center;
+  background-color: var(--red-ribbon);
+  border-radius: 6px;
+  display: inline-flex;
+  gap: 8px;
+  height: 36px;
+  justify-content: center;
+  padding: 12px 24px;
+  position: relative;
+}
+
+.changes-saved .x-team {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 20px;
+  margin-bottom: -3.00px;
+  margin-top: -5.00px;
+  position: relative;
+  width: 99px;
+}
+
+.changes-saved .x2 {
+  align-items: flex-start;
+  background-color: var(--baltic-sea);
+  border-radius: 16.67px;
+  display: flex;
+  gap: 80px;
+  height: 631px;
+  overflow: hidden;
+  padding: 53.1px 39px;
+  width: 889px;
+}
+
+.changes-saved .flex-col-2 {
+  min-height: 431px;
+  width: 354px;
+}
+
+.changes-saved .enter-team-details {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 8px;
+  white-space: nowrap;
+}
+
+.changes-saved .user-information {
+  color: var(--mountain-mist);
+  font-weight: 400;
+  line-height: 18px;
+  margin-left: 8px;
+  margin-top: 9px;
+  white-space: nowrap;
+}
+
+.changes-saved .group-18 {
+  background-color: var(--mine-shaft);
+  border-radius: 10px;
+  height: 42px;
+  margin-top: 10px;
+  width: 354px;
+}
+
+.changes-saved .overlap-group3 {
+  height: 121px;
+  margin-top: 5px;
+  position: relative;
+  width: 354px;
+}
+
+.changes-saved .group-19 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 37px;
+  left: 0;
+  min-height: 121px;
+  position: absolute;
+  top: 0;
+  width: 354px;
+}
+
+.changes-saved .rectangle {
+  background-color: var(--mine-shaft);
+  border-radius: 10px;
+  height: 42px;
+  width: 354px;
+}
+
+.changes-saved .team-logo {
+  margin-left: 8px;
+  margin-top: 13px;
+}
+
+.changes-saved .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--mine-shaft);
+  border-radius: 10px;
+  display: flex;
+  height: 89px;
+  margin-top: 10px;
+  min-width: 119px;
+  padding: 32px 46px;
+}
+
+.changes-saved .flex-col-3 {
+  min-height: 523px;
+  width: 354px;
+}
+
+.changes-saved .team-captain {
+  margin-left: 8px;
+  margin-top: 56px;
+}
+
+.changes-saved .overlap-group {
+  align-items: flex-end;
+  background-color: var(--mine-shaft);
+  border-radius: 10px;
+  display: flex;
+  height: 42px;
+  justify-content: flex-end;
+  margin-top: 10px;
+  min-width: 354px;
+  padding: 14.9px 14.9px;
+}
+
+.changes-saved .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--mine-shaft);
+  border-radius: 10px;
+  display: flex;
+  height: 42px;
+  justify-content: flex-end;
+  margin-top: 10px;
+  min-width: 354px;
+  padding: 10.9px 14.9px;
+}
+
+.changes-saved .group-21 {
+  background-color: var(--mine-shaft);
+  border-radius: 10px;
+  height: 42px;
+  margin-top: 5px;
+  width: 354px;
+}
+
+.changes-saved .button-1 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--san-marino);
+  border-radius: 6px;
+  display: inline-flex;
+  gap: 8px;
+  height: 36px;
+  justify-content: center;
+  margin-top: 72px;
+  padding: 12px 24px;
+  position: relative;
+}
+
+.changes-saved .share-container {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 13px;
+  margin-top: 68px;
+  min-width: 270px;
+}
+
+.changes-saved .mdicancel-bold {
+  cursor: pointer;
+  height: 24px;
+  left: 839px;
+  position: absolute;
+  top: 289px;
+  width: 24px;
+}
+
+.changes-saved .teenyiconstick-circle-outline {
+  height: 31px;
+  left: 548px;
+  position: absolute;
+  top: 359px;
+  width: 31px;
+}
+
+.changes-saved .rectangle-2229 {
+  background-color: #37b1e1;
+  cursor: pointer;
+  height: 48px;
+  left: 372px;
+  position: absolute;
+  top: 462px;
+  width: 92px;
+}
+
+.changes-saved .rectangle-2230 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 48px;
+  left: 480px;
+  position: absolute;
+  top: 462px;
+  width: 196px;
+}
+
+.changes-saved .place {
+  left: 386px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 461px;
+  width: 64px;
+}
+
+.changes-saved .continue-edit {
+  left: 511px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 461px;
+  width: 140px;
+}
+
+.changes-saved .changes-saved-1 {
+  left: 374px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 346px;
+  width: 277px;
+}
+
+.changes-saved .flex-col-4 {
+  gap: 202px;
+  left: 20px;
+  min-height: 446px;
+  position: absolute;
+  top: 61px;
+  width: 203px;
+}
+
+.changes-saved .group-1000005720 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3px;
+  height: 19px;
+  margin-left: 14px;
+  min-width: 67px;
+}
+
+.changes-saved .pro {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 25px;
+  white-space: nowrap;
+}
+
+.changes-saved .play {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.changes-saved .dropdown-container {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16.67px;
+  position: relative;
+}
+
+.changes-saved .link {
+  border-radius: 5.83px;
+  cursor: pointer;
+  height: 31.67px;
+  position: relative;
+  width: 203.33px;
+}
+
+.changes-saved .frame-1000005705-2 {
+  display: flex;
+  position: relative;
+  top: 8px;
+  width: 49px;
+}
+
+.changes-saved .place-1 {
+  height: 12px;
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -24.83px;
+  position: relative;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.changes-saved .link-1 {
+  border-radius: 5.83px;
+  height: 31.67px;
+  position: relative;
+  width: 203.33px;
+}
+
+.changes-saved .schedule {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -23.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.changes-saved .view-teams-my-team {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -97.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.changes-saved .frame-1000005705-3 {
+  display: inline-flex;
+  position: relative;
+  top: 8px;
+}
+
+.changes-saved .dropdown-container-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8.33px;
+  left: 23px;
+  position: absolute;
+  top: 704px;
+}
+
+.changes-saved .overlap-group-1 {
+  align-items: center;
+  display: flex;
+  gap: 97px;
+  height: 32px;
+  min-width: 203px;
+  padding: 1.7px 0;
+}
+
+.changes-saved .frame-1000005705-4 {
+  display: flex;
+  margin-top: 0.83px;
+  position: relative;
+  width: 49px;
+}
+
+.changes-saved .overlap-group1-1 {
+  align-self: flex-end;
+  border-radius: 14.17px;
+  height: 28px;
+  position: relative;
+  width: 58px;
+}
+
+.changes-saved .input-content {
+  align-items: center;
+  background-color: var(--blue-dianne);
+  border-radius: 14.17px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 58px;
+  padding: 1.7px 1.7px;
+  position: absolute;
+  top: 0;
+}
+
+.changes-saved .vector {
+  height: 12px;
+  margin-bottom: 0;
+  width: 12px;
+}
+
+.changes-saved .frame-1000005712-6 {
+  align-self: flex-end;
+  height: 25px;
+  width: 25px;
+}
+
+.changes-saved .flex-col-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.changes-saved .frame-1000005705-5 {
+  align-items: center;
+  gap: 8.33px;
+}
+
+.changes-saved .number-6 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.changes-saved .team {
+  color: var(--mountain-mist);
+  font-weight: 400;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.changes-saved .text {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

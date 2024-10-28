@@ -1,0 +1,450 @@
+/* screen - teams-2 */
+
+.teams-2 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  overflow: hidden;
+  width: 1600px;
+}
+
+.teams-2 .overlap-group4 {
+  height: 905px;
+  position: relative;
+  width: 1603px;
+}
+
+.teams-2 .sports-web-ui-light {
+  align-items: flex-start;
+  background-color: var(--black-russian);
+  display: flex;
+  flex-direction: column;
+  height: 905px;
+  left: 0;
+  padding: 44px 0;
+  position: absolute;
+  top: 0;
+  width: 1600px;
+}
+
+.teams-2 .pro {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 25px;
+  white-space: nowrap;
+}
+
+.teams-2 .play {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.teams-2 .dropdown-container {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16.67px;
+  margin-left: 25px;
+  margin-top: 123px;
+  position: relative;
+}
+
+.teams-2 .link {
+  border-radius: 5.83px;
+  cursor: pointer;
+  height: 31.67px;
+  position: relative;
+  width: 203.33px;
+}
+
+.teams-2 .place {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -97.83px;
+  position: relative;
+  width: 122px;
+}
+
+.teams-2 .link-1 {
+  height: 31.67px;
+}
+
+.teams-2 .frame-1000005705-2 {
+  display: flex;
+  position: relative;
+  top: 8px;
+  width: 49px;
+}
+
+.teams-2 .schedule {
+  height: 12px;
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -24.83px;
+  position: relative;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.teams-2 .link-2 {
+  align-items: flex-start;
+  background-color: var(--cello);
+  border-color: var(--white);
+  border-left-style: solid;
+  border-left-width: 2.5px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33px;
+  padding: 12.5px 16.67px;
+}
+
+.teams-2 .frame-1000005705-3 {
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 49.17px;
+}
+
+.teams-2 .view-teams-my-team {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -97.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.teams-2 .frame-1000005705-4 {
+  display: inline-flex;
+  position: relative;
+  top: 8px;
+}
+
+.teams-2 .dropdown-container-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33px;
+  position: relative;
+}
+
+.teams-2 .overlap-group {
+  align-items: center;
+  display: flex;
+  gap: 97px;
+  height: 32px;
+  min-width: 203px;
+  padding: 1.7px 0;
+}
+
+.teams-2 .frame-1000005705-5 {
+  display: flex;
+  margin-top: 0.83px;
+  position: relative;
+  width: 49px;
+}
+
+.teams-2 .overlap-group1 {
+  align-self: flex-end;
+  border-radius: 14.17px;
+  height: 28px;
+  position: relative;
+  width: 58px;
+}
+
+.teams-2 .input-content {
+  align-items: flex-start;
+  background-color: var(--blue-dianne);
+  border-radius: 14.17px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 58px;
+  padding: 1.7px 1.7px;
+  position: absolute;
+  top: 0;
+}
+
+.teams-2 .vector {
+  align-self: center;
+  height: 12px;
+  margin-top: 0;
+  width: 12px;
+}
+
+.teams-2 .frame-1000005712-4 {
+  height: 25px;
+  width: 25px;
+}
+
+.teams-2 .frame-1000005713 {
+  align-items: center;
+  background-color: var(--eerie-black);
+  border-top-style: solid;
+  border-top-width: 12.5px;
+  display: flex;
+  flex-direction: column;
+  height: 905px;
+  left: 327px;
+  overflow-y: scroll;
+  position: absolute;
+  top: 0;
+  width: 1276px;
+}
+
+.teams-2 .match-card {
+  align-items: flex-start;
+  display: flex;
+  gap: 8.33px;
+  margin-right: 6.16px;
+  margin-top: -216px;
+  overflow: hidden;
+  position: relative;
+  width: 1253px;
+}
+
+.teams-2 .x197507 {
+  height: 20px;
+  object-fit: cover;
+  position: relative;
+  width: 20px;
+}
+
+.teams-2 .line-2 {
+  height: 1px;
+  position: relative;
+  width: 293.33px;
+}
+
+.teams-2 .frame-1000003587 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8.33px;
+  position: relative;
+}
+
+.teams-2 .x197 {
+  height: 25px;
+  object-fit: cover;
+  position: relative;
+  width: 25px;
+}
+
+.teams-2 .number {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.teams-2 .text-117 {
+  text-align: right;
+}
+
+.teams-2 .frame-1000003587-2 {
+  border-color: var(--black-3);
+  border-left-style: solid;
+  border-left-width: 0.83px;
+  flex-direction: column;
+  gap: 4.17px;
+  height: 58.33px;
+  justify-content: center;
+  padding: 0px 8.33px 0px 20.83px;
+}
+
+.teams-2 .text-118 {
+  text-align: center;
+}
+
+.teams-2 .text-120 {
+  text-align: right;
+}
+
+.teams-2 .name {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.teams-2 .number-2 {
+  text-align: right;
+}
+
+.teams-2 .text-121 {
+  text-align: center;
+}
+
+.teams-2 .text-122 {
+  text-align: right;
+}
+
+.teams-2 .text-123 {
+  text-align: center;
+}
+
+.teams-2 .text-125 {
+  text-align: right;
+}
+
+.teams-2 .name-1 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.teams-2 .number-5 {
+  text-align: right;
+}
+
+.teams-2 .text-126 {
+  text-align: center;
+}
+
+.teams-2 .frame-1000005712-5 {
+  background-color: var(--selective-yellow);
+  border-radius: 12.5px;
+  height: 68.33px;
+  position: relative;
+  width: 45.83px;
+}
+
+.teams-2 .vuesaxlineararrow {
+  height: 20px;
+  left: 13px;
+  position: absolute;
+  top: 24px;
+  width: 20px;
+}
+
+.teams-2 .frame-1000005712-6 {
+  background-color: var(--onyx);
+  border-radius: 12.5px;
+  height: 68.33px;
+  position: relative;
+  width: 45.83px;
+}
+
+.teams-2 .hugeiconsadd-team {
+  align-self: flex-start;
+  height: 24px;
+  margin-top: 71px;
+  width: 24px;
+}
+
+.teams-2 .overlap-group2 {
+  background-image: url(../img/rectangle-2242.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 114px;
+  margin-right: 45.0px;
+  margin-top: 109px;
+  position: relative;
+  width: 1183px;
+}
+
+.teams-2 .frame-793 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 900px;
+  position: absolute;
+  top: 39px;
+  width: 238px;
+}
+
+.teams-2 .commentary {
+  letter-spacing: 0;
+  line-height: 26.7px;
+  margin-top: -0.91px;
+  position: relative;
+  width: 74.88px;
+}
+
+.teams-2 .vector-1 {
+  height: 16.44px;
+  position: relative;
+  width: 16.42px;
+}
+
+.teams-2 .naija-squad {
+  height: 18px;
+  left: 522px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.teams-2 .surname-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 36.0px;
+  margin-top: 66px;
+  min-height: 40px;
+  text-align: center;
+  width: 266px;
+}
+
+.teams-2 .header {
+  align-items: flex-end;
+  background-color: var(--baltic-sea);
+  box-shadow: 0px 1.82px 1.82px #0000001a;
+  display: flex;
+  flex-direction: row;
+  height: 78px;
+  justify-content: flex-end;
+  left: 327px;
+  min-width: 1273px;
+  padding: 2.5px 11.2px;
+  position: absolute;
+  top: 11px;
+  width: auto;
+}
+
+.teams-2 .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 67px;
+  justify-content: flex-end;
+  min-width: 417px;
+  padding: 24.8px 28.0px;
+}
+
+.teams-2 .link-3 {
+  border-radius: 5.83px;
+  position: relative;
+  width: 203.33px;
+}
+
+.teams-2 .number-6 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.teams-2 .text {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

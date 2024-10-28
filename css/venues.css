@@ -1,0 +1,516 @@
+/* screen - venues */
+
+.venues {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  overflow: hidden;
+  width: 1600px;
+}
+
+.venues .overlap-group2 {
+  height: 905px;
+  position: relative;
+  width: 1603px;
+}
+
+.venues .sports-web-ui-light {
+  align-items: flex-start;
+  background-color: var(--black-russian);
+  display: flex;
+  flex-direction: column;
+  height: 905px;
+  left: 0;
+  padding: 44px 0;
+  position: absolute;
+  top: 0;
+  width: 1600px;
+}
+
+.venues .pro {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 25px;
+  white-space: nowrap;
+}
+
+.venues .play {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.venues .dropdown-container {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16.67px;
+  margin-left: 25px;
+  margin-top: 123px;
+  position: relative;
+}
+
+.venues .link {
+  cursor: pointer;
+  height: 31.67px;
+}
+
+.venues .place {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -97.83px;
+  position: relative;
+  width: 122px;
+}
+
+.venues .link-1 {
+  height: 31.67px;
+}
+
+.venues .frame-1000005705-2 {
+  display: flex;
+  position: relative;
+  top: 8px;
+  width: 49px;
+}
+
+.venues .schedule {
+  height: 12px;
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -24.83px;
+  position: relative;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.venues .frame-1000005705-3 {
+  display: inline-flex;
+  position: relative;
+  top: 8px;
+}
+
+.venues .view-teams-my-team {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.venues .link-2 {
+  align-items: flex-start;
+  background-color: var(--cello);
+  border-color: var(--white);
+  border-left-style: solid;
+  border-left-width: 2.5px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33px;
+  padding: 12.5px 16.67px;
+}
+
+.venues .frame-1000005705-4 {
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 49.17px;
+}
+
+.venues .venues-1 {
+  letter-spacing: 0;
+  line-height: 11.7px;
+  margin-right: -14.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.venues .dropdown-container-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33px;
+  position: relative;
+}
+
+.venues .overlap-group {
+  align-items: center;
+  display: flex;
+  gap: 97px;
+  height: 32px;
+  min-width: 203px;
+  padding: 1.7px 0;
+}
+
+.venues .frame-1000005705-5 {
+  display: flex;
+  margin-top: 0.83px;
+  position: relative;
+  width: 49px;
+}
+
+.venues .overlap-group1 {
+  align-self: flex-end;
+  border-radius: 14.17px;
+  height: 28px;
+  position: relative;
+  width: 58px;
+}
+
+.venues .input-content {
+  align-items: flex-start;
+  background-color: var(--blue-dianne);
+  border-radius: 14.17px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 58px;
+  padding: 1.7px 1.7px;
+  position: absolute;
+  top: 0;
+}
+
+.venues .vector-1 {
+  align-self: center;
+  height: 12px;
+  margin-top: 0;
+  width: 12px;
+}
+
+.venues .frame-1000005712-4 {
+  height: 25px;
+  width: 25px;
+}
+
+.venues .frame-1000005713 {
+  align-items: flex-start;
+  background-color: var(--eerie-black);
+  border-top-style: solid;
+  border-top-width: 12.5px;
+  display: flex;
+  flex-direction: column;
+  height: 905px;
+  left: 327px;
+  overflow-y: scroll;
+  position: absolute;
+  top: 0;
+  width: 1276px;
+}
+
+.venues .match-card {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 8.33px;
+  margin-right: 6.16px;
+  margin-top: -216px;
+  overflow: hidden;
+  position: relative;
+  width: 1253px;
+}
+
+.venues .x197507 {
+  height: 20px;
+  object-fit: cover;
+  position: relative;
+  width: 20px;
+}
+
+.venues .line-2 {
+  height: 1px;
+  position: relative;
+  width: 293.33px;
+}
+
+.venues .frame-1000003587 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8.33px;
+  position: relative;
+}
+
+.venues .x197 {
+  object-fit: cover;
+}
+
+.venues .text-57 {
+  text-align: right;
+}
+
+.venues .frame-1000003587-2 {
+  border-color: var(--black-3);
+  border-left-style: solid;
+  border-left-width: 0.83px;
+  flex-direction: column;
+  gap: 4.17px;
+  height: 58.33px;
+  justify-content: center;
+  padding: 0px 8.33px 0px 20.83px;
+}
+
+.venues .text-58 {
+  text-align: center;
+}
+
+.venues .text-60 {
+  text-align: right;
+}
+
+.venues .number-2 {
+  text-align: right;
+}
+
+.venues .text-61 {
+  text-align: center;
+}
+
+.venues .text-62 {
+  text-align: right;
+}
+
+.venues .text-63 {
+  text-align: center;
+}
+
+.venues .text-65 {
+  text-align: right;
+}
+
+.venues .number-5 {
+  text-align: right;
+}
+
+.venues .text-66 {
+  text-align: center;
+}
+
+.venues .frame-1000005712-5 {
+  background-color: var(--selective-yellow);
+  border-radius: 12.5px;
+  height: 68.33px;
+  position: relative;
+  width: 45.83px;
+}
+
+.venues .vuesaxlineararrow {
+  height: 20px;
+  left: 13px;
+  position: absolute;
+  top: 24px;
+  width: 20px;
+}
+
+.venues .frame-1000005712-6 {
+  background-color: var(--onyx);
+  border-radius: 12.5px;
+  height: 68.33px;
+  position: relative;
+  width: 45.83px;
+}
+
+.venues .header {
+  align-items: flex-end;
+  background-color: var(--baltic-sea);
+  box-shadow: 0px 1.82px 1.82px #0000001a;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 78px;
+  justify-content: flex-end;
+  margin-top: 80px;
+  min-width: 1272px;
+  padding: 2.5px 10.2px;
+  width: auto;
+}
+
+.venues .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 67px;
+  justify-content: flex-end;
+  min-width: 417px;
+  padding: 24.8px 29.0px;
+}
+
+.venues .frame-3099 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 46px;
+  margin-top: 91px;
+  position: relative;
+  width: 854px;
+}
+
+.venues .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.83px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.venues .vuesaxlinearsend {
+  height: 24.44px;
+  position: relative;
+  width: 24.44px;
+}
+
+.venues .vuesaxlinearsend-1 {
+  height: 15px;
+  position: relative;
+  width: 15px;
+}
+
+.venues .frame-3098 {
+  align-items: flex-start;
+  border-radius: 16.67px;
+  display: flex;
+  gap: 16.67px;
+  height: 415px;
+  margin-left: 34px;
+  margin-top: 90px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: relative;
+  width: 1024px;
+}
+
+.venues .frame-3098-item {
+  background-color: var(--baltic-sea);
+  border-radius: 16.67px;
+  height: 415.48px;
+  margin-bottom: -0.48px;
+  overflow: hidden;
+  position: relative;
+  width: 325.99px;
+}
+
+.venues .frame-793 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 43px;
+  position: absolute;
+  top: 362px;
+  width: 238px;
+}
+
+.venues .commentary {
+  width: 74.88px;
+}
+
+.venues .vector {
+  height: 16.44px;
+  position: relative;
+  width: 16.42px;
+}
+
+.venues .rectangle-2222 {
+  height: 208px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 326px;
+}
+
+.venues .commentary-1 {
+  width: 141px;
+}
+
+.venues .post-1 {
+  align-items: center;
+  background-color: var(--onyx);
+  border-radius: 8.33px;
+  display: flex;
+  gap: 16.67px;
+  justify-content: center;
+  margin-left: 36px;
+  margin-top: 63px;
+  position: relative;
+  width: 1011px;
+}
+
+.venues .frame-3099-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8.33px;
+  justify-content: center;
+  padding: 12.5px 0px;
+  position: relative;
+}
+
+.venues .view-all-venues {
+  letter-spacing: 0;
+  line-height: 26.7px;
+  margin-top: -0.83px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.venues .vuesaxlinearsend-2 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.venues .commentary-2 {
+  letter-spacing: 0;
+  line-height: 26.7px;
+  margin-top: -0.91px;
+  position: relative;
+}
+
+.venues .link-3 {
+  border-radius: 5.83px;
+  position: relative;
+  width: 203.33px;
+}
+
+.venues .name-2 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.venues .number-6 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.venues .surname-2 {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.venues .text {
+  letter-spacing: 0;
+  line-height: 20.0px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
